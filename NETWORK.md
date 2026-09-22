@@ -1,14 +1,15 @@
 # 🌐 Zion App Network — Interlinks
 
-**ai-tender-scout** — public-sector bid discovery & proposal support. Part of the Zion Tech Group app network (630+ apps).
+**ai-tender-scout** is part of the Zion Tech Group app network (630+ apps).
 
 - 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
 - 🗂️ Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
 
 ## Related apps
-- [zion-ai-rfp-builder](https://github.com/Zion-support/zion-ai-rfp-builder) — RFP builder
+- [zion-ai-rfp-builder](https://github.com/Zion-support/zion-ai-rfp-builder) — Vendor RFP template builder
 - [zion-ai-rfp-responder](https://github.com/Zion-support/zion-ai-rfp-responder) — RFP responder
-- [zion-ai-procurement](https://github.com/Zion-support/zion-ai-procurement) — procurement AI
+- [zion-ai-procurement](https://github.com/Zion-support/zion-ai-procurement) — Vendor evaluation and spend analysis
+- [zion-ai-quote-builder](https://github.com/Zion-support/zion-ai-quote-builder) — Quote builder
 - [zion-network](https://github.com/Zion-support/zion-network) — network hub
 
 ---
