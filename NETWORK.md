@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Tender Scout
 
-**ai-tender-scout** is part of the Zion Tech Group app network (630+ apps).
+Find and score tender opportunities.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [licitacao-radar](https://github.com/Zion-support/licitacao-radar) · [zion-ai-rfp-builder](https://github.com/Zion-support/zion-ai-rfp-builder) · [zion-ai-rfp-responder](https://github.com/Zion-support/zion-ai-rfp-responder) · [zion-ai-procurement](https://github.com/Zion-support/zion-ai-procurement) · [zion-ai-quote-builder](https://github.com/Zion-support/zion-ai-quote-builder)
 
-## Related apps
-- [zion-ai-rfp-builder](https://github.com/Zion-support/zion-ai-rfp-builder) — Vendor RFP template builder
-- [zion-ai-rfp-responder](https://github.com/Zion-support/zion-ai-rfp-responder) — RFP responder
-- [zion-ai-procurement](https://github.com/Zion-support/zion-ai-procurement) — Vendor evaluation and spend analysis
-- [zion-ai-quote-builder](https://github.com/Zion-support/zion-ai-quote-builder) — Quote builder
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
